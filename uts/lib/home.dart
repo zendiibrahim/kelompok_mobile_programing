@@ -1786,6 +1786,7 @@ Container(
             ))
             )
 
+
         //history menu
           :
           Text("History Page")
